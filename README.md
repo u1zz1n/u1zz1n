@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Uijin Lee
 
-####🖥️ Languages
+#### 🖥️ Languages
 🔹C/C++ (Proficient)
 🔹C#
 🔹Python
 🔹GLSL
 
-####🖥️ Tools & API
+#### 🖥️ Tools & API
 🔹Source Control
   🔸Git/SVN
 🔹Graphics
@@ -17,7 +17,7 @@
 🔹3D Modeling
   🔸Maya
 
-####🖥️ Framework
+#### 🖥️ Framework
 🔹2D/3D Game
   🔸Unreal Engine 4
   🔸Unity
@@ -27,11 +27,11 @@
 🔹Multiplayer networking
   🔸Photon Unity Networking 2 (PUN2)
 
-####🎓Education
+#### 🎓Education
   DigiPen Institute of Technology
   2021.08 -2023.04, Washington Redmond
 
-  #####Computer Science in Real-Time Interactive Simulation
+  ##### Computer Science in Real-Time Interactive Simulation
 <!--
 **u1zz1n/u1zz1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
