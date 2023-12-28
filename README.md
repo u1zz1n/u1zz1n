@@ -2,8 +2,11 @@
 
 #### 🖥️ Languages
 🔹C/C++ (Proficient)
+
 🔹C#
+
 🔹Python
+
 🔹GLSL
 
 #### 🖥️ Tools & API
