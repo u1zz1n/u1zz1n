@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Uijin Lee
 
 🖥️ Languages
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JS&logoColor=white"/>	
+<img src="https://img.shields.io/badge/JS?style=flat&logo=JavaScript&logoColor=white"/>	
 <!--
 **u1zz1n/u1zz1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
