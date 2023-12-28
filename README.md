@@ -3,6 +3,7 @@
 🖥️ Languages
 <img src="https://img.shields.io/badge/cplusplus-#512BD4?
           style=flat
+          &logo=C++
           &logoColor=white"/>
 <!--
 **u1zz1n/u1zz1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
