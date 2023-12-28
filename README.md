@@ -1,12 +1,9 @@
 ### Hi there 👋, I'm Uijin Lee
 
 #### 🖥️ Languages
-🔹C/C++ (Proficient)
-
-🔹C#
-
-🔹Python
-
+🔹C/C++ (Proficient)    
+🔹C#    
+🔹Python    
 🔹GLSL
 
 #### 🖥️ Tools & API
