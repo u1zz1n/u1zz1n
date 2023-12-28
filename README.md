@@ -7,25 +7,14 @@
 🔹GLSL
 
 #### 🖥️ Tools & API
-🔹Source Control
-
-  🔸Git/SVN
-
-  
-🔹Graphics
-
-  🔸OpenGL
-  
-  🔸DirectX
-
-  
-🔹Graphics Debugging
-
-  🔸Render Doc, ImGui
-
-  
-🔹3D Modeling
-
+🔹Source Control    
+    🔸Git/SVN    
+🔹Graphics    
+    🔸OpenGL    
+    🔸DirectX    
+🔹Graphics Debugging    
+  🔸Render Doc, ImGui    
+🔹3D Modeling    
   🔸Maya
 
 #### 🖥️ Framework
