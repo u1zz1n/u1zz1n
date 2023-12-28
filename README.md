@@ -18,33 +18,32 @@
 🔹Graphics Debugging    
 
     🔸Render Doc, ImGui    
-  
 🔹3D Modeling    
 
-  🔸Maya
+    🔸Maya
 
 #### 🖥️ Framework
-🔹2D/3D Game
+🔹2D/3D Game    
 
-  🔸Unreal Engine 4
+    🔸Unreal Engine 4
   
-  🔸Unity
-
-  
-🔹Augmented Reality
-
-  🔸Unity AR Foundation
-  
-  🔸AR Core Plugin
+    🔸Unity
 
   
-🔹Multiplayer networking
+🔹Augmented Reality    
 
-  🔸Photon Unity Networking 2 (PUN2)
+    🔸Unity AR Foundation
+  
+    🔸AR Core Plugin
+
+  
+🔹Multiplayer networking    
+
+    🔸Photon Unity Networking 2 (PUN2)
 
 #### 🎓Education
-  DigiPen Institute of Technology
-  2021.08 -2023.04, Washington Redmond
+  DigiPen Institute of Technology    
+  2021.08 -2023.04, Washington Redmond    
 
   ##### Computer Science in Real-Time Interactive Simulation
 <!--
