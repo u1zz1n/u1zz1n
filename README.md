@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Uijin Lee
 
+🖥️ Languages
+[![C++ Badge](http://img.shields.io/badge/-C++-#00599C?style=flat&logo=cplusplus)]
 <!--
 **u1zz1n/u1zz1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
