@@ -17,7 +17,7 @@
     🔸DirectX    
 🔹Graphics Debugging    
 
-   🔸Render Doc, ImGui    
+    🔸Render Doc, ImGui    
   
 🔹3D Modeling    
 
