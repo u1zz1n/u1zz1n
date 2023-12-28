@@ -42,10 +42,12 @@
     🔸Photon Unity Networking 2 (PUN2)
 
 #### 🎓Education
+#### Computer Science in Real-Time Interactive Simulation
+
   DigiPen Institute of Technology    
   2021.08 -2023.04, Washington Redmond    
 
-  ##### Computer Science in Real-Time Interactive Simulation
+
 <!--
 **u1zz1n/u1zz1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
